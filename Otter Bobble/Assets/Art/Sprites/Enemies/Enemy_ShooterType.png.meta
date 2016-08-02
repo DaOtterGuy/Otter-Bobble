@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 5a0997964177d604c9b2635c18506029
+timeCreated: 1465256845
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Enemy_ShooterType_0
+    21300002: Enemy_ShooterType_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Enemy_ShooterType_0
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 133
+        width: 361
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 106.5, y: -123.5}
+        - {x: 104.5, y: -121.5}
+        - {x: 11.5, y: -106.5}
+        - {x: 142.5, y: -106.5}
+        - {x: 144.5, y: -104.5}
+        - {x: 144.5, y: -87.5}
+        - {x: 161.5, y: -87.5}
+        - {x: 163.5, y: -85.5}
+        - {x: 165.5, y: -46.5}
+        - {x: 146.5, y: -31.5}
+        - {x: 162.5, y: -32.5}
+        - {x: 165.5, y: -13.5}
+        - {x: 180.5, y: -11.5}
+        - {x: 180.5, y: 163.5}
+        - {x: 163.5, y: 163.5}
+        - {x: 163.5, y: 180.5}
+        - {x: 7.5, y: 180.5}
+        - {x: 7.5, y: 163.5}
+        - {x: -47.5, y: 163.5}
+        - {x: -68.5, y: 146.5}
+        - {x: -70.5, y: 127.5}
+        - {x: -105.5, y: 127.5}
+        - {x: -108.5, y: 108.5}
+        - {x: -124.5, y: 108.5}
+        - {x: -144.5, y: 89.5}
+        - {x: -163.5, y: 28.5}
+        - {x: -180.5, y: -42.5}
+        - {x: -180.5, y: -87.5}
+        - {x: -161.5, y: -106.5}
+        - {x: -30.5, y: -121.5}
+        - {x: -123.5, y: -121.5}
+        - {x: -125.5, y: -123.5}
+        - {x: -125.5, y: -161.5}
+        - {x: -123.5, y: -163.5}
+        - {x: -33.5, y: -180.5}
+        - {x: 11.5, y: -180.5}
+        - {x: 11.5, y: -163.5}
+        - {x: 104.5, y: -163.5}
+        - {x: 106.5, y: -161.5}
+    - name: Enemy_ShooterType_1
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 133
+        width: 361
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68.5, y: -133}
+        - {x: 66.5, y: -131}
+        - {x: 11.5, y: -116}
+        - {x: 142.5, y: -116}
+        - {x: 144.5, y: -114}
+        - {x: 144.5, y: -97}
+        - {x: 161.5, y: -97}
+        - {x: 163.5, y: -95}
+        - {x: 163.5, y: -38}
+        - {x: 161.5, y: -36}
+        - {x: 144.5, y: -21}
+        - {x: 162.5, y: -23}
+        - {x: 165.5, y: -4}
+        - {x: 180.5, y: -2}
+        - {x: 180.5, y: 173}
+        - {x: 163.5, y: 173}
+        - {x: 163.5, y: 190}
+        - {x: 7.5, y: 190}
+        - {x: 7.5, y: 173}
+        - {x: -47.5, y: 173}
+        - {x: -68.5, y: 156}
+        - {x: -70.5, y: 137}
+        - {x: -105.5, y: 137}
+        - {x: -108.5, y: 118}
+        - {x: -124.5, y: 118}
+        - {x: -144.5, y: 99}
+        - {x: -163.5, y: 38}
+        - {x: -180.5, y: -33}
+        - {x: -180.5, y: -97}
+        - {x: -161.5, y: -116}
+        - {x: -30.5, y: -131}
+        - {x: -85.5, y: -131}
+        - {x: -87.5, y: -133}
+        - {x: -87.5, y: -171}
+        - {x: -85.5, y: -173}
+        - {x: -32.5, y: -190}
+        - {x: 11.5, y: -190}
+        - {x: 11.5, y: -173}
+        - {x: 66.5, y: -173}
+        - {x: 68.5, y: -171}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

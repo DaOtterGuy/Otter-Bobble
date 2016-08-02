@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 76413830e7fa694468a8b528d0ebd043
+timeCreated: 1465250973
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Enemy_CircleType_SpriteSheet_0
+    21300002: Enemy_CircleType_SpriteSheet_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Enemy_CircleType_SpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 76
+        width: 304
+        height: 475
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -220.5}
+        - {x: 76, y: -220.5}
+        - {x: 94, y: -225.5}
+        - {x: 108, y: -178.5}
+        - {x: 116, y: -146.5}
+        - {x: 133, y: -163.5}
+        - {x: 152, y: -163.5}
+        - {x: 152, y: -64.5}
+        - {x: 133, y: -45.5}
+        - {x: 116, y: -45.5}
+        - {x: 116, y: 104.5}
+        - {x: 114, y: 106.5}
+        - {x: 97, y: 142.5}
+        - {x: 95, y: 144.5}
+        - {x: 81, y: 163.5}
+        - {x: 27, y: 213.5}
+        - {x: 100, y: 216.5}
+        - {x: 97, y: 237.5}
+        - {x: -97, y: 237.5}
+        - {x: -100, y: 216.5}
+        - {x: -24, y: 164.5}
+        - {x: -76, y: 163.5}
+        - {x: -78, y: 161.5}
+        - {x: -97, y: 147.5}
+        - {x: -119, y: 105.5}
+        - {x: -138, y: -62.5}
+        - {x: -152, y: -64.5}
+        - {x: -152, y: -125.5}
+        - {x: -101, y: -164.5}
+        - {x: -78, y: -237.5}
+        - {x: -17, y: -237.5}
+        - {x: -15, y: -179.5}
+        - {x: 17, y: -180.5}
+        - {x: 17, y: -218.5}
+    - name: Enemy_CircleType_SpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 57
+        width: 304
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 152, y: -116}
+        - {x: 152, y: -55}
+        - {x: 133, y: -36}
+        - {x: 116, y: -36}
+        - {x: 116, y: 114}
+        - {x: 114, y: 116}
+        - {x: 97, y: 152}
+        - {x: 95, y: 154}
+        - {x: 81, y: 173}
+        - {x: 27, y: 223}
+        - {x: 62, y: 226}
+        - {x: 59, y: 247}
+        - {x: -59, y: 247}
+        - {x: -59, y: 228}
+        - {x: -57, y: 226}
+        - {x: -21, y: 226}
+        - {x: -21, y: 173}
+        - {x: -76, y: 173}
+        - {x: -78, y: 171}
+        - {x: -97, y: 157}
+        - {x: -119, y: 115}
+        - {x: -138, y: -53}
+        - {x: -152, y: -55}
+        - {x: -152, y: -154}
+        - {x: -131, y: -157}
+        - {x: -116, y: -156}
+        - {x: -77, y: -213}
+        - {x: -19, y: -211}
+        - {x: -17, y: -209}
+        - {x: -15, y: -189}
+        - {x: 17, y: -190}
+        - {x: 17, y: -247}
+        - {x: 78, y: -247}
+        - {x: 80, y: -189}
+        - {x: 96, y: -175}
+        - {x: 116, y: -156}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

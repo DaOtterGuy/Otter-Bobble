@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - P_Projectile
+  - E_Projectile
+  - Enemy
+  - Platform
+  - Wall
+  - Death_Pit
+  - EnemyList
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Platform
+  - Player
+  - Enemy
+  - Wall
+  - Go Through Platforms
+  - Go Through Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Platforms
+    uniqueID: 895528233
+    locked: 0
+  - name: Walls
+    uniqueID: 2980915177
+    locked: 0
+  - name: Enemies
+    uniqueID: 1713880989
+    locked: 0
+  - name: Items
+    uniqueID: 2292231935
+    locked: 0
+  - name: Player
+    uniqueID: 871263265
+    locked: 0
